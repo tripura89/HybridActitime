@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Default test started]]>
+    </line>
+    <line>
+      <![CDATA[LoginPageis Displayed]]>
+    </line>
+    <line>
+      <![CDATA[CreateNewUsermethod started]]>
+    </line>
+    <line>
+      <![CDATA[HomePageis Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Users List Pageis Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Add Useris Displayed]]>
+    </line>
+    <line>
+      <![CDATA[User is Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[User is not Successfully created and displayed in list of Users]]>
+    </line>
+    <line>
+      <![CDATA[CreateNewUsermethod PASSED]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26455" started-at="2020-08-15T11:57:35 PDT" finished-at="2020-08-15T11:58:02 PDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26455" started-at="2020-08-15T11:57:35 PDT" finished-at="2020-08-15T11:58:02 PDT">
+      <class name="com.actitime.users.CreateUsersTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.actitime.users.CreateUsersTest@103f852]" name="openBrowser" is-config="true" duration-ms="9255" started-at="2020-08-15T11:57:36 PDT" finished-at="2020-08-15T11:57:45 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[LoginPageis Displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="CreateNewUser()[pri:0, instance:com.actitime.users.CreateUsersTest@103f852]" name="CreateNewUser" duration-ms="17173" started-at="2020-08-15T11:57:45 PDT" finished-at="2020-08-15T11:58:02 PDT">
+          <reporter-output>
+            <line>
+              <![CDATA[CreateNewUsermethod started]]>
+            </line>
+            <line>
+              <![CDATA[HomePageis Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Users List Pageis Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Add Useris Displayed]]>
+            </line>
+            <line>
+              <![CDATA[User is Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[User is not Successfully created and displayed in list of Users]]>
+            </line>
+            <line>
+              <![CDATA[CreateNewUsermethod PASSED]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CreateNewUser -->
+      </class> <!-- com.actitime.users.CreateUsersTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
